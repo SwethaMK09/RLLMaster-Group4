@@ -1,0 +1,12 @@
+use housekeeperdemo;
+
+Select * from admin;
+
+Select * from student;
+
+Select * from worker;
+
+Select * from clean_request;
+
+Select * from feedback;
+
